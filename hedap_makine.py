@@ -1,0 +1,1 @@
+import time\n\ndef play_sound():\n    print('Ses çalınıyor...')\n    time.sleep(1)\n\nif __name__ == '__main__':\n    play_sound()
